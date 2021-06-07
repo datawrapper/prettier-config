@@ -1,4 +1,4 @@
-## A shared set of eslint rules to be used across Datawrapper projects.
+## A shared set of code formatting rules to be used across Datawrapper projects.
 
 To use this config, install it via NPM along with Prettier:
 
@@ -11,6 +11,6 @@ Then you can include it in your project's Prettier configuration, which most pro
     "name": "my-cool-project",
     "version": "1.0.0",
     "dependencies": {},
-    "prettier": "@company/prettier-config"
+    "prettier": "@datawrapper/prettier-config"
 }
 ```

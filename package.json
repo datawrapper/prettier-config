@@ -1,5 +1,5 @@
 {
-    "name": "prettier-config",
+    "name": "@datawrapper/prettier-config",
     "version": "1.0.0",
     "description": "Shared prettier-config for Datawrapper projects",
     "main": "index.js",
